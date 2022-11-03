@@ -1,0 +1,454 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Roboto', sans-serif
+}
+.list{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.list-it{
+    margin-left:40px ;
+    list-style: none;
+}
+.list-it a{
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 14px;
+    text-transform: uppercase;
+    color: #000000;
+    }
+
+
+.box{
+    font-weight: 400;
+    font-size: 14px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    background: #0057FF;
+    border-radius: 30px;
+    padding: 14px 30px;
+    border: none;
+    margin-left: 400px;
+}
+.digital{
+    padding-top: 171px;
+    padding-bottom: 52px;
+    font-weight: 400;
+    font-size: 51px;
+    line-height: 66px;
+    text-transform: uppercase;
+    color: #000000;
+    }
+.your{
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+color: #000000;
+padding-bottom: 17px;
+}
+.avaa{
+    margin-right: 20px;
+}
+.home{
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 26px;
+    /* identical to box height, or 186% */
+    text-transform: uppercase;
+    color: #000000;
+}
+.get{
+    margin-top: 40px;
+    padding: 14px 40px;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    background: #FFA332;
+    border-radius: 30px;
+    border: none;
+    }
+    .bigavva{
+        margin-top: 52px;
+        position: relative;
+    }
+.bigava{
+    position: absolute;
+}
+.see{
+    position: absolute;
+    top: 390px;
+    left: 520px;
+}
+.select{
+    position: absolute;
+    top: 700px;
+}
+.techno{
+    padding-top: 200px;
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 11px;
+    line-height: 22px;
+    /* identical to box height, or 200% */
+    text-align: center;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    color: #0057FF;
+}
+.the{
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 48px;
+    /* identical to box height, or 120% */
+    text-align: center;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #000000;
+    margin-bottom: 39px;
+    }
+    .work{
+        font-family: 'Roboto';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 16px;
+        line-height: 26px;
+        /* or 162% */
+        text-align: center;
+        color: #000000;
+}
+.twsee{
+    position: relative;
+}
+.twgirl{
+    position: absolute;
+    top: 77px;
+}
+.colorsee{
+    position: absolute;
+    top: 400px;
+    left: 1000px;
+}
+.more{
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 26px;
+    /* identical to box height, or 186% */
+    text-align: center;
+    text-transform: uppercase;
+    color: #000000;
+    position: absolute;
+    top: 500px;
+    left: 550px;
+    padding-bottom: 200px;
+}
+.and{
+    padding-top: 900px;
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 50px;
+    /* or 125% */
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #000000;
+}
+.first{
+    padding-top: 48px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 26px;
+    /* or 173% */
+    color: #000000;
+    padding-bottom: 37px;
+    }
+.support{
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 36px;
+    /* identical to box height, or 144% */
+    text-transform: uppercase;
+    color: #000000;
+    }
+.make{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    /* or 171% */
+    color: #000000;
+    padding-bottom: 30px;
+    }
+.read{
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 24px;
+    /* identical to box height, or 185% */
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    background: #0057FF;
+    border-radius: 30px;
+    padding: 14px 40px;
+    border: none;
+}
+.onecopy{
+    display: flex;
+    justify-content: space-around;
+}
+.copytwo{
+    margin-top: 750px;
+    /* padding-left: 205px; */
+    background: #FFFFFF;
+    box-shadow: 0px 8px 28px rgba(83, 83, 83, 0.15);
+    border-radius: 15px;
+    position: relative;
+    height: 865px;
+    margin-left: 130px;
+   
+}
+
+.world{
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 29px;
+    line-height: 40px;
+    /* identical to box height, or 138% */
+    text-align: center;
+    text-transform: uppercase;
+    color: #000000;
+    padding-top: 57px;
+    padding-bottom: 27px;
+    }
+    
+
+.seeleft{
+    position: absolute;
+    top: 100px;
+    right: 470px;
+}
+.fill{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    /* or 162% */
+    text-align: center;
+    color: #000000;
+}
+.chrome{
+margin-left: 20px;
+display: flex;
+justify-content: space-around;
+}
+.name{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 60px;
+    /* identical to box height, or 400% */
+    text-align: center;
+    color: #000000;
+    background: #F8F8F8;
+    border: 1px solid #E7E7E7;
+    border-radius: 6px;
+    }
+  ::placeholder{
+    color: #000000;
+  }  
+.subject{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 60px;
+    /* identical to box height, or 400% */
+    text-align: center;
+    color: #000000;
+    background: #F8F8F8;
+    border: 1px solid #E7E7E7;
+    border-radius: 6px;
+    width: 90% ;
+    margin-top: 32px;
+    margin-left: 40px;
+    /* padding: 0px 314px 0px 26px; */
+    
+        }
+.subject2{
+    margin-top: 32px;
+    margin-left: 40px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 60px;
+    /* identical to box height, or 400% */
+    text-align:center;
+    /* padding: 10px 314px 80px 26px; */
+    color: #000000;
+    background: #F8F8F8;
+    border: 1px solid #E7E7E7;
+    border-radius: 6px;
+    height: 140px;
+    width: 90%;
+    } 
+.sent{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 60px;
+/* identical to box height, or 400% */
+text-align: center;
+color: #FFFFFF;
+background: #0057FF;
+border-radius: 30px;
+padding:2px 150px ;
+border: none;
+margin-left: 60px;
+margin-top: 42px;
+}
+.rilyyellow{
+    position: absolute;
+    top:580px;
+    left:370px ;
+}
+.boygirl2{
+    margin-top: 245px;
+
+}
+.why{
+    margin-top: 245px;
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 50px;
+    /* or 125% */
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #000000;
+    }
+  .rule{
+      font-family: 'Roboto';
+      font-style: normal;
+      font-weight: 400;
+      font-size: 15px;
+      line-height: 26px;
+      /* or 173% */
+      color: #000000;
+      margin-top: 48px;
+      padding-bottom: 58px;
+        }  
+.how{
+    display: flex;
+    align-items: start;
+    /* background: #FFFFFF; */
+border-radius: 0px;
+margin-top: 32px;
+
+}
+.plus{
+    margin-right: 40px;
+}
+.doyou{
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    /* identical to box height, or 175% */
+    text-transform: uppercase;
+    color: #000000;
+    padding-left: 40px;
+    
+}
+.flycard{
+    margin-left: 120px;
+}   
+.howdoyou{
+    border: 1px solid #E7E7E7;
+    /* height: 320px; */
+    background: #FFFFFF;
+border-radius: 0px;
+box-shadow: 0px 5px 5px ;
+}
+.fly{
+    justify-content: space-around;
+}
+/* -----------------------------------------------------end------------------------ */
+.dolor{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    /* or 171% */
+    text-align: center;
+    color: #000000;
+    padding-top: 45px;
+    }
+.cardimage{
+    background: #FFFFFF;
+border: 1px solid #E7E7E7;
+border-radius: 10px;
+margin-bottom: 144px;
+margin-top: 150px;
+}
+.phonegirl{
+    margin-left: 170px;
+}
+.martin{
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height, or 150% */
+    text-align: center;
+    text-transform: uppercase;
+    color: #000000;
+    /* margin-left: 128px; */
+    padding-top: 20px;
+    }
+.ced{
+    font-family: 'Oswald';
+font-style: normal;
+font-weight: 400;
+font-size: 13px;
+line-height: 24px;
+/* identical to box height, or 185% */
+text-align: center;
+text-transform: uppercase;
+color: #000000;
+}
+.space{
+    margin-left: 140px;
+    padding-bottom: 41px;
+}
