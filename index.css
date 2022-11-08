@@ -452,3 +452,102 @@ color: #000000;
     margin-left: 140px;
     padding-bottom: 41px;
 }
+.template{
+/* position: absolute; */
+font-family: 'Oswald';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 22px;
+/* identical to box height, or 183% */
+text-align: center;
+letter-spacing: 0.5px;
+text-transform: uppercase;
+color: #0057FF;
+}
+/* .seeup{
+position: absolute;
+margin-left: 250px;
+} */
+.even{
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 34px;
+/* or 142% */
+text-align: center;
+color: #000000;
+padding-top: 23px;
+}
+.hard{
+font-family: 'Oswald';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 24px;
+/* identical to box height, or 171% */
+text-align: center;
+text-transform: uppercase;
+color: #FFFFFF;
+background: #0057FF;
+border-radius: 30px;
+padding: 14px 40px;
+border: none;
+margin-left: 360px;
+margin-top: 37px;
+}   
+.logotips{
+    margin-top: 129px;
+    padding-bottom: 65px;
+    
+    }
+ .sordic{
+    margin-left: 66px;
+ }
+ /* ---------------------------------container end ------------------------------ */   
+footer{
+    background: #000000;
+    border-radius: 0px;
+    }
+.example{
+font-family: 'Oswald';
+font-style: normal;
+font-weight: 400;
+font-size: 11px;
+line-height: 22px;
+/* identical to box height, or 200% */
+text-transform: uppercase;
+color: #FFFFFF;
+padding-top: 63px;
+padding-bottom: 56px;
+}
+.logofut{
+    padding-top: 71px;
+
+}
+.front{
+    padding-top: 61px;
+    display: flex;
+    justify-content: space-around;
+    padding-left: 150px;
+}
+.guide{
+    font-family: 'Oswald';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 22px;
+    /* identical to box height, or 183% */
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    }
+.fa-brands{
+    margin-left: 10px;
+    font-size: 50px;
+    background: white ;
+}
+.icons{
+    margin-top: 153px;
+}
